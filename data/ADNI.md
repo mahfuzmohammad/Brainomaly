@@ -7,7 +7,7 @@
 
 - Under `Download`, select `Image Collections`
 - Go to `Advanced Search` tab, enter the image id separated by commas (,)
-  - You can get image ids from `/data/ADNI_Patient_list.xlsx` under column 'Inumber'
+  - You can get a list image ids from [/data/ADNI_Patient_list.xlsx](data/ADNI_Patient_List.xlsx) under the column `Inumber`
 
 ![ADNI Advanced Search](../imgs/screenshot2.png)
 
