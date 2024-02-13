@@ -45,6 +45,7 @@ We use [Neptune.ai](https://neptune.ai/) for logging the training and validation
 ### 2. Downloading the dataset
 
 - Alzheimer's Disease Detection Dataset (ADNI) [[Data Access Instruction]](data/ADNI.md)
+    - Data splits: data/AD_DS1.csv, data/AD_DS2.csv
 - Headache Detection Dataset (Mayo Clinic) (Private)
 
 ### 3. Data preparation
